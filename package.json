@@ -1,6 +1,6 @@
 {
   "name": "@augwit/ng-jhipster",
-  "version": "0.21.1",
+  "version": "0.22.0",
   "description": "A Jhipster util library for Angular. Upgraded for Angular 18.",
   "repository": {
     "type": "git",
